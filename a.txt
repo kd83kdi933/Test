@@ -2,8 +2,6 @@ this is work 1.
 Hello this is work2 , I add a message.
 Ok, now we can work togather.
 I create a new branch dev1.
-<<<<<<< HEAD
 I add the team.
-=======
 Master here--
->>>>>>> 718ff5a858616420626ddec68c1e452d93ea2ef7
+abc
